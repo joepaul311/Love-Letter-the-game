@@ -1,0 +1,8 @@
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\Love Letter.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\LoveLetter.Form1.resources
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\LoveLetter.Properties.Resources.resources
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\Love Letter.csproj.GenerateResource.Cache
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\bin\Debug\Love Letter.exe
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\bin\Debug\Love Letter.pdb
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\Love Letter.exe
+C:\Users\Joseph\documents\visual studio 2010\Projects\Love Letter\Love Letter\obj\x86\Debug\Love Letter.pdb
